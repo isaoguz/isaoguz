@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @isaoguz
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning Asp.Net Core Mvc and Java Spring
+- 📫 How to reach me isa34oguz@gmail.com
